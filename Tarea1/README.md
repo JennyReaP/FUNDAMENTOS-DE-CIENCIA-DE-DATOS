@@ -1,9 +1,9 @@
 # 📚 TALLER 1 JR
 ---
 ## **Parte 1** Adquisición, procesamiento y visualización de datos.
+---
 **Dataset:** Online Retail Data Set, link:
 https://archive.ics.uci.edu/dataset/352/online+retail
----
 ## **Parte 2** EDA
 ---
 
