@@ -33,8 +33,3 @@ https://archive.ics.uci.edu/dataset/352/online+retail
 - PDF (para informes y presentaciones)
 
 ---
-
-## 📬 **Contacto**
-
-Puedes escribirme a: [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)
-
