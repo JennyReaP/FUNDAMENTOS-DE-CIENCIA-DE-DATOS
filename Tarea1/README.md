@@ -1,6 +1,7 @@
 # 📚 TALLER 1 JR
 ---
 ## **Parte 1** 
+
 ---
 Adquisición, procesamiento y visualización de datos.
 **Dataset:** Online Retail Data Set, link:
