@@ -16,15 +16,11 @@ https://archive.ics.uci.edu/dataset/352/online+retail
 | `tarea2/`   | Script de análisis de datos       |
 | `tarea3/`   | Ensayo sobre ética profesional    |
 
----
-
 ## ✅ **Objetivos**
 
 - 📌 Organizar las tareas de forma clara y accesible
 - 📌 Aprender a usar Git y GitHub
 - 📌 Compartir proyectos escolares
-
----
 
 ## 🛠️ **Tecnologías utilizadas**
 
