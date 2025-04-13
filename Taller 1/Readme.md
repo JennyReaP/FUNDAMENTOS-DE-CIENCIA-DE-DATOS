@@ -24,8 +24,6 @@ Para realizar la limpieza y después de la revisión de los datos del mismo, se 
 
 **Parte 2: EDA**
 
-**Realizar un análisis y una descripción (incluir como archivo de texto) de que información contiene el set de datos. ¿Qué puede decir o cómo puedes describir este set de datos?**
-
 Después de la limpieza aplicada con los criterios antes mencionados al DataSet **Online Retail**, el número de registros final es: 391551. Esta tienda en línea vende productos principalmente para regalos y está ubicada en Reino Unido. De la lectura realizada se puede describir lo siguiente:
 
 | **Columnas**   | **Tipo de dato al cargar** | **Tamaño requerido** | **Descripción** |
